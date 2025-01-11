@@ -20,3 +20,11 @@ a=22
 b=33
 c=44
 print ((a+b)*c)
+# how to take input in string 
+name = input("helolo")
+print(name)
+# this is how you take input in number 
+age = int(input("age:"))
+print (age)
+price = str and float(input("set :"))
+print(price)
