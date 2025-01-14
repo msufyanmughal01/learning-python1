@@ -15,7 +15,7 @@ print(c,a/b)
 a="Aa"
 b=2
 print (a*2)
-# if anything is in bracket then it solve first then it multiply and divide with other 
+# if anything is in bracket it solve first then it multiply and divide with other 
 a=22
 b=33
 c=44
@@ -28,3 +28,6 @@ age = int(input("age:"))
 print (age)
 price = str and float(input("set :"))
 print(price)
+# if else 
+# if ():
+# else:
